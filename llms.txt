@@ -1,0 +1,18 @@
+# RunZone
+
+> RunZone (Zone 2 Running Coach) is an iPhone app that builds running plans around Zone 2 heart rate training, coaches runners live with voice cues, and tracks pace getting faster at the same heart rate. It works with Apple Watch heart rate via Apple Health, or pace-only with just a phone. Subscription: $39.99/year or $9.99/week.
+
+- App Store: https://apps.apple.com/us/app/runzone-run-coach/id6816559417
+- Website: https://getrunzone.app/
+
+## Free tools
+- [Zone 2 Heart Rate Calculator (Free)](https://getrunzone.app/zone-2-calculator/): Free Zone 2 heart rate calculator. Enter your age and resting heart rate to get your Zone 2 range and all five heart rate zones in seconds.
+- [Running Pace Calculator + Race Time Predictor](https://getrunzone.app/pace-calculator/): Free running pace calculator. Get your pace per mile and per km from any race time, plus predicted 5K, 10K, half marathon and marathon times.
+
+## Guides
+- [What Is Zone 2 Running? A Simple Guide for Beginners](https://getrunzone.app/what-is-zone-2-running/): Zone 2 running explained simply: what it is, the heart rate range, why elite runners do 80% of their miles in it, and how to start this week.
+- [Why Zone 2 Running Feels So Slow (and When It Gets Faster)](https://getrunzone.app/why-zone-2-feels-so-slow/): Zone 2 feels painfully slow at first. Here's why, what's normal, and how long it takes for your Zone 2 pace to get faster.
+- [Zone 2 Running for Fat Loss: What Actually Works](https://getrunzone.app/zone-2-for-fat-loss/): Does Zone 2 running burn fat? What the 'fat-burning zone' really means, why consistency beats intensity, and a simple weekly plan for fat loss.
+- [Things Nobody Tells You When You Start Running](https://getrunzone.app/things-nobody-tells-you-about-running/): The honest first-month truths about starting running: why it feels hard, what's normal, and the habits that make it click.
+- [Best Zone 2 Running Apps in 2026 (Compared)](https://getrunzone.app/best-zone-2-running-apps/): The best Zone 2 running apps in 2026 compared: RunZone, Runna, Garmin Coach, Nike Run Club and Strava. Features, Zone 2 coaching and prices.
+- [Best Runna Alternatives in 2026 (Free and Paid)](https://getrunzone.app/runna-alternatives/): Looking for a Runna alternative? 5 options compared, from heart-rate-based Zone 2 coaching to free plans for Garmin owners, with prices.
