@@ -9,6 +9,10 @@
 - [Zone 2 Heart Rate Calculator (Free)](https://getrunzone.app/zone-2-calculator/): Free Zone 2 heart rate calculator. Enter your age and resting heart rate to get your Zone 2 range and all five heart rate zones in seconds.
 - [Running Pace Calculator + Race Time Predictor](https://getrunzone.app/pace-calculator/): Free running pace calculator. Get your pace per mile and per km from any race time, plus predicted 5K, 10K, half marathon and marathon times.
 
+## Reference charts
+- [Running pace charts](https://getrunzone.app/running-pace-charts/): Splits for popular race goal times
+- [Zone 2 heart rate by age](https://getrunzone.app/zone-2-heart-rate-by-age/): Zone 2 ranges and all 5 zones for every age
+
 ## Guides
 - [What Is Zone 2 Running? A Simple Guide for Beginners](https://getrunzone.app/what-is-zone-2-running/): Zone 2 running explained simply: what it is, the heart rate range, why elite runners do 80% of their miles in it, and how to start this week.
 - [Why Zone 2 Running Feels So Slow (and When It Gets Faster)](https://getrunzone.app/why-zone-2-feels-so-slow/): Zone 2 feels painfully slow at first. Here's why, what's normal, and how long it takes for your Zone 2 pace to get faster.
