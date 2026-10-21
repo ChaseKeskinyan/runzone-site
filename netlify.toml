@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+
+[[plugins]]
+  package = "/_build/indexnow-plugin"
