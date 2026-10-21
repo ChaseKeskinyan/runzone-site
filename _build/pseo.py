@@ -54,6 +54,7 @@ def shell(slug, title, desc, h1, body, schema, crumb, crumb_url):
 <link rel="icon" href="{FAVICON}">
 <link rel="stylesheet" href="/style.css">
 <script defer src="https://track.datalyr.com/dl.js" data-workspace-id="G58dbYMy9i"></script>
+<script defer src="/ct.js"></script>
 {lds}</head>
 {HEADER}<main class="wrap">
 <div class="crumbs"><a href="/">RunZone</a> / <a href="{crumb_url}">{esc(crumb)}</a></div>
